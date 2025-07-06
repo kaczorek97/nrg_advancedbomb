@@ -4,7 +4,7 @@
 **💣 Advanced Explosive Devices**  
 Bring true tension, control, and chaos to your gameplay. **nrg_advancedbomb** is an advanced bomb and explosive system that gives players immense freedom—from crafting to detonation—with full customization and realism.
 
-
+🌐 [Visit NrgScripts.com](https://nrgscripts.com)
 
 **🧨 Create Various Types of Bombs:**  
 
